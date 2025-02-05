@@ -1,3 +1,5 @@
+TODO - update this readme for TDD not BDD
+
 # BDD Kata
 
 Brought to you by Niall Hunt and Roberto Gambuzzi
