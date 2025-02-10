@@ -18,10 +18,3 @@ This repo consists of the boilerplate and setup for 3 languages:
 * Typescript
 
 There are 3 folders with the relevant scaffolding. Clone this repo and go to the appropriate branch for the language you are using.
-
-
-## step 4
-
-compute the jacard index of each file in the folder step4 (by category) agains each other file and group the files by similarity
-
-![Step 4 Example](assets/step4_example.png)
